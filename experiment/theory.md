@@ -194,17 +194,17 @@ $$F.F \geq 1$$
 
 ### Ripple Factor
 
-$$\gamma= \sqrt ({F.F}^2-1 )\times 100\%$$
+$$\gamma= \sqrt ({F.F}^2-1 )\times 100\\%$$
 
-$$\gamma=\sqrt ({1.11}^2-1) \times 100\%=48.1\%$$
+$$\gamma=\sqrt ({1.11}^2-1) \times 100\\%=48.1\\%$$
 
 Efficiency:It is defined as ratio of dc power available at the load to the input ac power.
 
-n%=$$\frac{P_{load}}{P_{in}$$×100%
+$$n\\%=\frac{P_{load}}{P_{in}}$$×100\\%
 
-$$n\%=\frac{(I_{dc}^2×R)}{(I_{rms}^2×R)}×100\%$$
+$$n\\%=\frac{(I_{dc}^2×R)}{(I_{rms}^2×R)}×100\\%$$
 
-$$n\%=\frac{\frac {4 \times I_{m}^2}{\pi^2}}{\frac{I_{m}^2}{2}}\times 100\%=\frac{8}{\pi^2}\times 100\% =81.13$$
+$$n\\%=\frac{\frac {4 \times I_{m}^2}{\pi^2}}{\frac{I_{m}^2}{2}}\times 100\\%=\frac{8}{\pi^2}\times 100\\% =81.13$$
 
 ### Peak Inverse Volatge
 
