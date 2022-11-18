@@ -10,7 +10,7 @@
         <link rel="stylesheet" type="text/css" href="./css/fullwvoscilloscope_ver2.css">      
      <!---------MathJax------------------->
         <!--script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"-->
-        </script>
+       
         <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
         <!------------calculator----------------------------------------->
         <link rel="stylesheet" type="text/css" href="./css/virtualc.css">
@@ -27,7 +27,7 @@
           <script src="./js/fullwvpeakcurrent.js"></script>
     </head>
     
-    <body bgcolor="#000066"> 
+    <body background-color="#000066"> 
         <header class="default" id="experiment-header">
             <div class="logo" id="experiment-header-logo" style="text-align:center">
 
@@ -166,11 +166,12 @@
                         <span class="tooltiptext">Calculator</span></div></div>
                 <div style=" position:absolute;  top:50px;  left:0px; height:190px; width:520px;">
                    <br>
-                    &nbsp; &nbsp;  $$V_{rms}= \frac{V_m}{\sqrt{2}}$$, V<sub>m</sub> is the peak voltage<br><br>
-                    &nbsp; &nbsp; $$V_{dc}= \frac{2 \times V_m} {&#960;}$$<br><br>
-                    &nbsp; &nbsp; Ripple Factor=$$\frac{V_{ac}}{V_{dc}}$$
-                   
-                    Since,  $$V_{ac}=\sqrt{(V^2_{rms}-V^2_{dc})}$$<br><br>
+                     $$V_{rms}= \frac{V_m}{\sqrt{2}}$$
+                     V<sub>m</sub> is the peak voltage
+                    $$V_{dc}= \frac{2 \times V_m} {&#960;}$$
+                     Ripple Factor=$$\frac{V_{ac}}{V_{dc}}$$
+                   Since,  
+                    $$V_{ac}=\sqrt{(V^2_{rms}-V^2_{dc})}$$
                     &nbsp; &nbsp; Peak Current:<input type="text" id="pkcrt" placeholder="Peak Current" readonly >  <label id="currmamp">mA</label><br>
                 </div>
             </div>    <!--------------- end of .calcln----------------------->
