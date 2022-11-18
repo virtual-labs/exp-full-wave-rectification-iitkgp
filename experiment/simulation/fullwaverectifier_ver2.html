@@ -9,9 +9,9 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" type="text/css" href="./css/fullwvoscilloscope_ver2.css">      
      <!---------MathJax------------------->
-        <script type="text/javascript"
-                src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        <!--script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"-->
         </script>
+        <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
         <!------------calculator----------------------------------------->
         <link rel="stylesheet" type="text/css" href="./css/virtualc.css">
         <script type="text/javascript" src="./js/virtualc.js"></script>
@@ -166,9 +166,11 @@
                         <span class="tooltiptext">Calculator</span></div></div>
                 <div style=" position:absolute;  top:50px;  left:0px; height:190px; width:520px;">
                    <br>
-                    &nbsp; &nbsp;  \(V_{rms}= \frac{V_m}{\sqrt{2}}\), \(V_m\) is the peak voltage<br><br>
-                    &nbsp; &nbsp; \(V_{dc}= \frac{2 \times V_m} {&#960;}\)<br><br>
-                    &nbsp; &nbsp; Ripple Factor=\(\frac{V_{ac}}{V_{dc}}\) \(\quad\)Since,  \(V_{ac}=\sqrt{(V^2_{rms}-V^2_{dc})}\)<br><br>
+                    &nbsp; &nbsp;  $$V_{rms}= \frac{V_m}{\sqrt{2}}$$, V<sub>m</sub> is the peak voltage<br><br>
+                    &nbsp; &nbsp; $$V_{dc}= \frac{2 \times V_m} {&#960;}$$<br><br>
+                    &nbsp; &nbsp; Ripple Factor=$$\frac{V_{ac}}{V_{dc}}$$
+                   
+                    Since,  $$V_{ac}=\sqrt{(V^2_{rms}-V^2_{dc})}$$<br><br>
                     &nbsp; &nbsp; Peak Current:<input type="text" id="pkcrt" placeholder="Peak Current" readonly >  <label id="currmamp">mA</label><br>
                 </div>
             </div>    <!--------------- end of .calcln----------------------->
