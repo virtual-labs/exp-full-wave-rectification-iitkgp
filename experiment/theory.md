@@ -142,10 +142,10 @@ $$V_O=V_I−2×V_b$$
 
 $$V_O=V_I−2×V_b−2×I_{rd}$$
 
-where,
-$$V_I$$ is the input voltage,
-$$V_b$$ is barrier potential,
-rd is diode resistance
+where, <br/>
+V<sub>I<sub> is the input voltage, <br/>
+V<sub>b</sub> is barrier potential, <br/>
+r<sub>d</sub> is diode resistance
 
 ### Bridge Rectifier – Negative Half Cycle
 
