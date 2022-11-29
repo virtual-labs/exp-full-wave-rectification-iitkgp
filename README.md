@@ -6,8 +6,12 @@
 <img src="experiment/images/iitkgp.png" width="10%">
 </div>
 
+
 ### About the Experiment 
+
 <b>Discipline | <b> Electronics and Communication and Engineering 
+
+
 :--|:--|
 <b> Lab | <b> **Basic Electronics**
 <b> Experiment|     <b> **Full Wave Rectification and Experiment 7**
@@ -29,8 +33,7 @@
 
 SrNo | Name | VLabs Developer or Integration Engineer | Designation | Department| Institute
 :--|:--|:--|:--|:--|:--|
+
 1 | **Sukriti Dhang** | Developer | Senior Project Assistant | Department of Mechanical Engineering | IIT Kharagpur 
 2 | **Pabitra Kumar Jana** | Integration | Senior Project Officer | Department of Mechanical Engineering | IIT Kharagpur 
 3 | **Prakriti Dhang** | Integration | Project Staff- Technical | Department of Mechanical Engineering | IIT Kharagpur  
-
-
