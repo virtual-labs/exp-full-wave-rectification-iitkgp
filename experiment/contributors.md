@@ -1,4 +1,4 @@
-## Subject Matter Experts
+## Subject Matter Expert
 
 **SNo** | **Name** |  **Email** | **Institute**| **Id**
 :--|:--|:--|:--|:--|
