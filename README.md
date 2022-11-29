@@ -7,6 +7,8 @@
 </div>
 
 
+### About the Experiment 
+
 <b>Discipline | <b> Electronics and Communication and Engineering 
 
 
@@ -15,8 +17,8 @@
 <b> Experiment|     <b> **Full Wave Rectification and Experiment 7**
 
 
-### About the Experiment 
 
+### Subject Matter Expert
 <!--Fill a brief description of this experiment here-->
 
 <b>Name of Developer | <b> **Prof. Chittaranjan Mandal**
@@ -32,9 +34,6 @@
 SrNo | Name | VLabs Developer or Integration Engineer | Designation | Department| Institute
 :--|:--|:--|:--|:--|:--|
 
-1 | **Sukriti Dhang** | Developer | Senior Project Assistant | Department of Mechanical Engineering | IIT Kharagpur | 
-2 | **Pabitra Kumar Jana** | Integration | Senior Project Officer | Department of Mechanical Engineering | IIT Kharagpur | 
-3 | **Prakriti Dhang** | Integration | Project Staff- Technical | Department of Mechanical Engineering | IIT Kharagpur | 
-
-
-
+1 | **Sukriti Dhang** | Developer | Senior Project Assistant | Department of Mechanical Engineering | IIT Kharagpur 
+2 | **Pabitra Kumar Jana** | Integration | Senior Project Officer | Department of Mechanical Engineering | IIT Kharagpur 
+3 | **Prakriti Dhang** | Integration | Project Staff- Technical | Department of Mechanical Engineering | IIT Kharagpur  
