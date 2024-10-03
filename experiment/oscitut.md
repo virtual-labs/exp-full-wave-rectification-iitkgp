@@ -35,7 +35,7 @@ In the figure 20, if volt/div is set to 2volt/div, which implies each mazor divi
 
 
 
-Virtual Oscilloscope Tutorial : [Oscilloscope Tutorial](./images/Oscilloscope_Tutorial_fullfwave.pdf)
+Virtual Oscilloscope Tutorial : [Oscilloscope Tutorial](./images/Oscilloscope_Tutorial_fullwave.pdf)
 
 
 <center>
