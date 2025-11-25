@@ -1,0 +1,63 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "If the peak applied signal voltage is Vm, then for a full wave rectifier circuit(not bridge) the PIV of the diodes should be",
+      "answers": {
+        "a": "<Vm",
+        "b": "<=2Vm",
+        "c": ">=2Vm",
+        "d": "<2Vm"
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect",
+        "b": "You have choosen option (b). The answer is incorrect",
+        "c": "You have choosen option (c). The answer is correct",
+        "d": "You have choosen option (d). The answer is incorrect"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "If the peak applied signal voltage is Vm then for a bridge rectifier circuit the PIV of the diodes will be",
+      "answers": {
+        "a": ">=Vm",
+        "b": "<2Vm",
+        "c": ">=2Vm",
+        "d": "<2Vm"
+        
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is correct  ",
+        "b": "You have choosen option (b). The answer is incorrect",
+        "c": "You have choosen option (c). The answer is incorrect",
+        "d": "You have choosen option (d). The answer is incorrect"
+        
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    
+    
+    {
+      "question": "Four ideal Si diodes [VT = 0.7V] are used in a bridge rectifier circuit which has a peak input sinusoidal signal amplitude of 5V [Vm = 5V]. The average DC voltage is",
+      "answers": {
+        "a": ">=Vm",
+        "b": "<2Vm",
+        "c": ">=2Vm"
+        
+        
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect  ",
+        "b": "You have choosen option (b). The answer is correct",
+        "c": "You have choosen option (c). The answer is incorrect"
+        
+        
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+    
+  ]
+}
