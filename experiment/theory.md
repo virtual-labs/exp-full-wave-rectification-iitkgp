@@ -5,7 +5,7 @@
 
 
 <div align="center">
-<img src="images/rectifier.png" width="50%">
+<img src="images/rectifier.png" style="max-width:100%; height:auto;">
 <p>Figure 1  </p>
 </div>
 A rectifier is a device that converts alternating current (AC) to direct current (DC), a process known as rectification. Rectifiers are essentially of two types – a half wave rectifier and a full wave rectifier.
@@ -16,20 +16,20 @@ A full-wave rectifier is exactly the same as the half-wave, but allows unidirect
 
 
 <div align="center">
-<img src="images/fullwavrec.png" width="50%">
+<img src="images/fullwavrec.png" style="max-width:100%; height:auto;">
 <p>Figure 2  </p>
 </div>
 For a half wave Rectifier this is what we have observed
 
 
 <div align="center">
-<img src="images/fullwavrcshft.png" width="50%">
+<img src="images/fullwavrcshft.png" style="max-width:100%; height:auto;">
 <p>Figure 3  </p>
 </div>
 
 If we change the phase of the input waveform by 180 degrees
 <div align="center">
-<img src="images/fullwavshft1rc.png" width="50%">
+<img src="images/fullwavshft1rc.png" style="max-width:100%; height:auto;">
 <p>Figure 4  </p>
 </div>
 
@@ -37,7 +37,7 @@ Now if we add these two circuits, we would get
 
 
 <div align="center">
-<img src="images/fullwavcmbrc.png" width="50%">
+<img src="images/fullwavcmbrc.png" style="max-width:100%; height:auto;">
 <p>Figure 5  </p>
 </div>
 
@@ -47,23 +47,23 @@ So, we have seen that this rectifier circuit consists of two sources which have 
 
 
 <div align="center">
-<img src="images/fullwavreccrt.png" width="50%">
+<img src="images/fullwavreccrt.png" style="max-width:100%; height:auto;">
 <p>Figure 6  </p>
 </div>
 
 ### Full Wave Rectifier – Waveforms
 
 <div align="center">
-<img src="images/fullwavg1.png" width="50%">
+<img src="images/fullwavg1.png" style="max-width:100%; height:auto;">
 <p>Figure 7  </p>
 </div>
 
 <div align="center">
-<img src="images/fullwavg2.png" width="50%">
+<img src="images/fullwavg2.png" style="max-width:100%; height:auto;">
 <p>Figure 8  </p>
 </div>
 <div align="center">
-<img src="images/fullwavg3.png" width="50%">
+<img src="images/fullwavg3.png" style="max-width:100%; height:auto;">
 <p>Figure 9  </p>
 </div>
 
@@ -74,12 +74,12 @@ The resulting waveform of the schematic is shown above. This configuration is ra
 A Full-Wave Rectifier can be constructed using Center-Tapped transformer – which give us two shifted sinusoids so that exactly one of the waveforms is positive at one time and two diodes. As compared to the half wave rectifier we use two diodes instead of one, one of the two diodes remains in conduction in both of the half cycles. At any point in time, only one of the diodes is forward biased. This allows for continuous conduction through load.
 
 <div align="center">
-<img src="images/fullr8.png" width="30%">
+<img src="images/fullr8.png" style="max-width:100%; height:auto;">
 <p>Figure 10  </p>
 </div>
 
 <div align="center">
-<img src="images/fullr9.png" width="30%">
+<img src="images/fullr9.png" style="max-width:100%; height:auto;">
 <p>Figure 11  </p>
 </div>
 
@@ -89,7 +89,7 @@ $$V_S=2V_I$$
 
 ### Center Tapped Transformer – Positive cycle
 <div align="center">
-<img src="images/cntrwvp.png" width="50%">
+<img src="images/cntrwvp.png" style="max-width:100%; height:auto;">
 <p>Figure 12  </p>
 </div>
 
@@ -102,7 +102,7 @@ $$⇒V_O=V_I$$
 ### Center Tapped Transformer– Negative cycle
 
 <div align="center">
-<img src="images/cntrwvn.png" width="50%">
+<img src="images/cntrwvn.png" style="max-width:100%; height:auto;">
 <p>Figure 13  </p>
 </div>
 For Negative Cycle D1 is Reversed Biased and D2 is Forward Biased
@@ -116,7 +116,7 @@ $$⇒V_O=V_I$$
 Bridge rectifier uses 4 rectifying diodes connected in a "bridged" configuration to produce the desired output but does not require a special centre tapped transformer, thereby reducing its size and cost. The single secondary winding is connected to one side of the diode bridge network and the load to the other side as shown below.
 
 <div align="center">
-<img src="images/fullwaverecbridgeckt.png" width="50%">
+<img src="images/fullwaverecbridgeckt.png" style="max-width:100%; height:auto;">
 <p>Figure 14  </p>
 </div>
 
@@ -128,7 +128,7 @@ During the positive half cycle of the supply diodes D1 and D2 conduct in series 
 
 
 <div align="center">
-<img src="images/fullwvrp.png" width="50%">
+<img src="images/fullwvrp.png" style="max-width:100%; height:auto;">
 <p>Figure 15  </p>
 </div>
 
@@ -151,7 +151,7 @@ rd is diode resistance
 
 During the negative half cycle of the supply, diodes D3 and D4 conduct in series, but diodes D1 and D2 switch of as they are now reverse biased. The current flowing through the load is the same direction as before.
 <div align="center">
-<img src="images/fullwvrn.png" width="50%">
+<img src="images/fullwvrn.png" style="max-width:100%; height:auto;">
 <p>Figure 16  </p>
 </div>
 For Negative Half Cycle D1 and D2 is Reverse Biased and D3 and D4 is Forward Biased.
@@ -244,7 +244,7 @@ $$PIV \geq 2Vm$$
 An alternative representation of full-wave bridge rectifier circuit is easier both to remember and to comprehend. It's the exact same circuit, except all diodes are drawn in a horizontal attitude, all “pointing” the same direction.
 
 <div align="center">
-<img src="images/fullwvnew.png" width="50%">
+<img src="images/fullwvnew.png" style="max-width:100%; height:auto;">
 <p>Figure 17  </p>
 </div>
 
