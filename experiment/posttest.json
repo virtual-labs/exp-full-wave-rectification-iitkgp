@@ -4,17 +4,12 @@
     {
       "question": "If the peak applied signal voltage is Vm, then for a full wave rectifier circuit(not bridge) the PIV of the diodes should be",
       "answers": {
-        "a": "<Vm",
+        "a": "<=Vm",
         "b": "<=2Vm",
         "c": ">=2Vm",
         "d": "<2Vm"
       },
-      "explanations": {
-        "a": "You have choosen option (a). The answer is incorrect",
-        "b": "You have choosen option (b). The answer is incorrect",
-        "c": "You have choosen option (c). The answer is correct",
-        "d": "You have choosen option (d). The answer is incorrect"
-      },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -27,13 +22,7 @@
         "d": "<2Vm"
         
       },
-      "explanations": {
-        "a": "You have choosen option (a). The answer is correct  ",
-        "b": "You have choosen option (b). The answer is incorrect",
-        "c": "You have choosen option (c). The answer is incorrect",
-        "d": "You have choosen option (d). The answer is incorrect"
-        
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -48,13 +37,7 @@
         
         
       },
-      "explanations": {
-        "a": "You have choosen option (a). The answer is incorrect  ",
-        "b": "You have choosen option (b). The answer is correct",
-        "c": "You have choosen option (c). The answer is incorrect"
-        
-        
-      },
+      
       "correctAnswer": "b",
       "difficulty": "beginner"
     }
